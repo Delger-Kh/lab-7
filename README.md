@@ -17,3 +17,7 @@
 - **Help** - Дархад "Help clicked!" гэж консольд хэвлэнэ
 - **Exit** - Програмыг хаана
 
+## Дэлгэцийн зураг
+![Login Screen](screenshot/Screenshot%20(1792).png)
+![Main Menu](screenshot/Screenshot%20(1793).png)
+
