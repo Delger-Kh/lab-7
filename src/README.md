@@ -17,14 +17,3 @@
 - **Help** - Дархад "Help clicked!" гэж консольд хэвлэнэ
 - **Exit** - Програмыг хаана
 
-## Дэлгэцийн зураг
-![Login Screen](c:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot (1792).png)
-![Main Menu](c:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot (1793).png)
-
-## 🔧 GitHub-д байрлуулах
-1. **Шинэ Repo үүсгэх эсвэл хуучин файлуудыг устгах**
-   ```sh
-   git rm -r src/
-   git rm -r screenshots/
-   git commit -m "Removed old files"
-   git push origin main
